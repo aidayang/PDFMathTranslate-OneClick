@@ -24,6 +24,8 @@ Pages中可以设置想要翻译的PDF页面数量
 
 处理结果保存在软件项目文件夹内的pdf2zh_files文件夹内
 
+视频教程：[youtube](https://www.youtube.com/watch?v=CfF9pIToc8o)
+
 ## 注意事项
 
 整合包只支持Windows 10或11系统
