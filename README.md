@@ -32,7 +32,6 @@ Pages中可以设置想要翻译的PDF页面数量
 
 软件运行路径中不要有非英文字符和空格
 
-软件常见问题说明：https://nuowa.net/1607
 
 ## PDFMathTranslate一键启动整合包下载链接
 
