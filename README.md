@@ -1,12 +1,12 @@
-# PDFMathTranslate-OneClick
+# PDFMathTranslate-next-OneClick
 
 ![](https://github.com/aidayang/PDFMathTranslate-OneClick/blob/main/a.jpg?raw=true)
 
-PDFMathTranslate是一款基于 AI 完整保留排版的 PDF 文档全文双语翻译软件，支持 Google/DeepL/Ollama/OpenAI 等在线翻译工具。由于是使用的在线翻译工具进行翻译，所以对本地电脑配置要求不高，操作简单快速高效。
+PDFMathTranslate-next是一款基于 AI 完整保留排版的 PDF 文档全文双语翻译软件，支持 Google/DeepL/Ollama/OpenAI 等在线翻译工具。由于是使用的在线翻译工具进行翻译，所以对本地电脑配置要求不高，操作简单快速高效。
 
 为了方便大家快速上手体验，省去安装部署耗时。我制作了最新版的一键启动整合包，下载解压即用。
 
-## PDFMathTranslate整合包使用说明
+## PDFMathTranslate-next整合包使用说明
 
 首先将压缩包下载到本地电脑上解压，然后双击运行【启动软件.exe】，稍等一会就会打开webUI界面。
 
@@ -33,12 +33,21 @@ Pages中可以设置想要翻译的PDF页面数量
 软件运行路径中不要有非英文字符和空格
 
 
-## PDFMathTranslate一键启动整合包下载链接
+## PDFMathTranslate-next一键启动整合包下载链接
 
 [https://pan.quark.cn/s/3940b3a20c12](https://pan.quark.cn/s/3940b3a20c12)
 
-[https://pan.baidu.com/s/1KRNOaIs-nankxUHoEvPPFA?pwd=dgrf](https://pan.baidu.com/s/1KRNOaIs-nankxUHoEvPPFA?pwd=dgrf)
+## PDFMathTranslate-next在线一键部署启动
+[点击使用云镜像>>](https://www.compshare.cn/images/Mosminhy0zGM?referral_code=FlfHWpg22A9EnXni6kYKRv&ytag=GPU_yy_nuowa)
+
+## PDFMathTranslate-next免费在线体验地址
+[http://117.50.183.26:7861](http://117.50.183.26:7861)
+
+公共链接仅供体验，使用量大的话请下载整合包或自行单独在线部署使用
 
 ## PDFMathTranslate项目链接
 
 https://github.com/Byaidu/PDFMathTranslate
+
+## PDFMathTranslate-next项目链接
+https://github.com/PDFMathTranslate-next/PDFMathTranslate-next
