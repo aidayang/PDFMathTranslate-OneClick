@@ -46,3 +46,5 @@ https://pan.quark.cn/s/3940b3a20c12
 
 https://github.com/Byaidu/PDFMathTranslate
 
+## PDF批量全文翻译转Markdown软件下载链接
+https://articles.zsxq.com/id_d9tw9e44qwcb.html
